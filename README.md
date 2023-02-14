@@ -17,7 +17,7 @@ Thanks to [TheHusyin](https://github.com/TheHusyin) for adding a `requirements.t
 
 You can either `git clone` or download a ZIP of this repository. 
 
-`git clone https://github.com/CalvinLoke/bad-apple`
+`git clone https://github.com/TouhouCheatEngineCenter/badapple`
 
 Then, ensure that you set your terminal to the directory of this repository. 
 
@@ -29,7 +29,7 @@ Install the necessary dependencies and packages by using:
 
 And to run the code:
 
-`python touhou_bad_apple_v4.0.py`
+`python touhou_bad_apple_v4.5.py`
 
 And just follow the on-screen prompts. 
 
